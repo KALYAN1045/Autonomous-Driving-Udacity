@@ -1,6 +1,5 @@
-# Complete-Self-Driving-Car
+# DeepDrive : Autonomous Driving
 
-A self-driving car, also known as an autonomous vehicle, driverless car, or robotic car, is a car incorporating vehicular automation, that is, a ground vehicle that is capable of sensing its environment and moving safely with little or no human input.
 
 
 ![alt text](https://cdn.dribbble.com/users/1815/screenshots/2589016/car_dr.gif)
@@ -10,9 +9,6 @@ A self-driving car, also known as an autonomous vehicle, driverless car, or robo
 
 [Repo link](https://github.com/udacity/self-driving-car-sim)
 
-
-# Live demo:
-[video link](https://youtu.be/707kKmtrjrE)
 
 
 # STEPS to run this project:
@@ -50,12 +46,6 @@ Now to start the drive run the following command
 python drive.py
 ```
 
-Now open your simulator in Autonomous mood & run yes!!🙂
+Now open your simulator in Autonomous mode & run!!🙂
 
-# Authors:
-```bash
-Author: Bappy Ahmed
-Data Scientist
-Email: entbappy73@gmail.com
-```
 
