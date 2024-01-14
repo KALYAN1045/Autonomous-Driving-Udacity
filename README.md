@@ -49,4 +49,10 @@ python drive.py
 
 Now open your simulator in Autonomous mode & run!!🙂
 
+## ♨️ Tech Stack
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+
+![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
+
 
