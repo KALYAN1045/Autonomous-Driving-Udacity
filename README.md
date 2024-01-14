@@ -1,6 +1,6 @@
 # 🚗 DeepDrive : Autonomous Driving 
 
-![alt text](https://cdn.dribbble.com/users/1815/screenshots/2589016/car_dr.gif)
+![alt text](https://github.com/KALYAN1045/Autonomous-Driving-Udacity/blob/main/self-driving.gif?raw=true)
 
 Implemented a robust behavioral cloning model for autonomous vehicle navigation in the Udacity Simulator, leveraging deep learning techniques. The goal is to enable the vehicle to effectively mimic human driving behavior through the acquisition and application of behavioral data, ensuring safe and efficient autonomous navigation within the simulated environment.
 
